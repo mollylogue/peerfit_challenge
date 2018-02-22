@@ -1,0 +1,51 @@
+member_id,studio_key,studio_address_street,studio_address_city,studio_address_state,studio_address_zip,class_tag,viewed_at,reserved_at,canceled_at,class_time_at,checked_in_at
+1,power-yoga,774 Lake View St., Saint Petersburg, FL,33702,yoga,2018-01-01 16:03:01,2018-01-01 16:04:12,,2018-01-03 12:00:00,2018-01-03 11:57:33
+3,hive-athletics,91 Madison Ave. ,Macungie,PA, 18062,strength,2018-01-02 18:31:02,2018-01-03 08:22:51,,2018-01-04 10:30:00,2018-01-04 10:31:02
+9,third-ave-pilates,5 SE. Third Ave.,Providence,RI,02904,pilates,2018-01-02 18:44:11,2018-01-02 18:45:32,,2018-01-10 08:00:00,2018-01-10 07:54:40
+12,crossfit-control-jacksonville-beach,9025 North Hudson Road,Saint Petersburg, FL,33702,crossfit,2018-01-02 10:22:43,2018-01-03 07:12:29,2018-01-08 10:16:03,2018-01-10 17:30:00,,
+5,true-grit-fitness,460 Vernon St.,Smithtown,NY,11787,endurance,2018-01-02 13:30:41,2018-01-03 13:30:58,,2018-01-08 13:30:00,,
+21,prana-yoga,9347 North Gainsway St.,Norristown, PA, 19401,yoga,2018-01-03 15:48:21,  2018-01-04 15:49:28 , ,2018-01-05 07:30:00,2018-01-05 07:22:45
+6,flushing-crossfit,9250 Gonzales St.,Flushing,NY,11354,crossfit,2018-01-03 19:00:07,2018-01-03 20:15:32,2018-01,2018-01-09 14:00:00,,
+55,hive-athletics,91 Madison Ave. ,Macungie,PA, 18062,strength,2018-01-03 21:20:35,2018-01-07 21:21:05,,2018-01-15 08:45:00,2018-01-15 08:46:03
+3,crossfit-control-jacksonville-beach,9025 North Hudson Road,Saint Petersburg, FL,33702,crossfit,2018-01-,2018-01-07 21:56:36,,2018-01-09 09:30:00,2018-01-09 09:27:36
+12,prana-yoga,9347 North Gainsway St.,Norristown, PA, 19401,yoga,2018-01-04 22:45:03,2018-01-05 23:06:46,,2018-01-12 11:00:00,,
+9,hive-athletics,91 Madison Ave. ,Macungie,PA, 18062,strength,2018-01-04 15:48:21,  2018-01-11 15:49:28 , ,2018-01-05 07:30:00,2018-01-05 07:22:45
+5,third-ave-pilates,5 SE. Third Ave.,Providence,RI,02904,pilates,2018-01-05 19:00:07,2018-01-06 20:15:32,2018-01,2018-01-09 14:00:00,,
+32,true-grit-fitness,460 Vernon St.,Smithtown,NY,11787,endurance,2018-01-05 21:20:35,2018-01-05 21:21:05,,2018-01-13 08:45:00,2018-01-13 08:46:03
+4,crossfit-control-jacksonville-beach,9025 North Hudson Road,Saint Petersburg, FL,33702,crossfit,2018-01-,2018-01-07 21:56:36,,2018-01-09 09:30:00,2018-01-09 09:27:36
+18,power-yoga,774 Lake View St., Saint Petersburg, FL,33702,yoga,2018-01-05 22:45:03,2018-01-07 23:06:46,,2018-01-12 11:00:00,,
+27,prana-yoga,9347 North Gainsway St.,Norristown, PA, 19401,yoga,2018-01-06 16:03:01,2018-01-06 16:04:12,,2018-01-12 12:00:00,2018-01-12 11:57:33
+16,true-grit-fitness,460 Vernon St.,Smithtown,NY,11787,endurance,2018-01-07 18:31:02,2018-01-08 08:22:51,,2018-01-14 10:30:00,2018-01-14 10:31:02
+1,power-yoga,774 Lake View St., Saint Petersburg, FL,33702,yoga,2018-01-07 18:44:11,2018-01-09 18:45:32,,2018-01-14 08:00:00,2018-01-14 07:54:40
+3,hive-athletics,91 Madison Ave. ,Macungie,PA, 18062,strength,2018-01-08 10:22:43,2018-01-09 07:12:29,2018-01-09 10:16:03,2018-01-10 17:30:00,,
+55,hive-athletics,91 Madison Ave. ,Macungie,PA, 18062,strength,2018-01-09 13:30:41,2018-01-09 13:30:58,,2018-01-15 13:30:00,,
+3,crossfit-control-jacksonville-beach,9025 North Hudson Road,Saint Petersburg, FL,33702,crossfit,2018-01-10 15:48:21,  2018-01-10 15:49:28 , ,2018-01-15 07:30:00,2018-01-15 07:22:45
+19,flushing-crossfit,9250 Gonzales St.,Flushing,NY,11354,crossfit,2018-01-10 19:00:07,2018-01-10 20:15:32,,2018-01,2018-01-15 14:00:00,,
+4,crossfit-control-jacksonville-beach,9025 North Hudson Road,Saint Petersburg, FL,33702,crossfit,2018-01-12 21:20:35,2018-01-12 21:21:05,,2018-01-15 08:45:00,2018-01-15 08:46:03
+,prana-yoga,9347 North Gainsway St.,Norristown, PA, 19401,yoga,2018-01-,2018-01-13 21:56:36,,2018-01-16 09:30:00,2018-01-16 09:27:36
+36,hive-athletics,91 Madison Ave. ,Macungie,PA, 18062,strength,2018-01-14 22:45:03,2018-01-14 23:06:46,,2018-01-16 11:00:00,,
+5,third-ave-pilates,5 SE. Third Ave.,Providence,RI,02904,pilates,2018-01-14 15:48:21,  2018-01-14 15:49:28 , ,2018-01-17 07:30:00,2018-01-17 07:22:45
+1,power-yoga,774 Lake View St., Saint Petersburg, FL,33702,yoga,2018-01-15 19:00:07,2018-01-16 20:15:32,,2018-01,2018-01-17 14:00:00,,
+43,hive-athletics,91 Madison Ave. ,Macungie,PA, 18062,strength,2018-01-16 21:20:35,2018-01-16 21:21:05,,2018-01-18 08:45:00,2018-01-18 08:46:03
+29,,5 SE. Third Ave.,Providence,RI,02904,pilates,2018-01-,2018-01-18 21:56:36,,2018-01-19 09:30:00,2018-01-19 09:27:36
+12,crossfit-control-jacksonville-beach,9025 North Hudson Road,Saint Petersburg, FL,33702,crossfit,2018-01-19 22:45:03,2018-01-19 23:06:46,,2018-01-20 11:00:00,,
+51,crossfit-control-jacksonville-beach,9025 North Hudson Road,Saint Petersburg, FL,33702,crossfit,2018-01-19 19:00:07,2018-01-20 20:15:32,,2018-01,2018-01-21 14:00:00,,
+9,prana-yoga,9347 North Gainsway St.,Norristown, PA, 19401,yoga,2018-01-19 21:20:35,2018-01-19 21:21:05,,2018-01-20 08:45:00,2018-01-20 08:46:03
+17,hive-athletics,91 Madison Ave. ,Macungie,PA, 18062,strength,2018-01-,2018-01-19 21:56:36,,2018-01-21 09:30:00,2018-01-21 09:27:36
+36,third-ave-pilates,5 SE. Third Ave.,Providence,RI,02904,pilates,2018-01-20 22:45:03,2018-01-20 23:06:46,,2018-01-22 11:00:00,,
+4,true-grit-fitness,460 Vernon St.,Smithtown,NY,11787,endurance,2018-01-21 15:48:21,  2018-01-21 15:49:28 , ,2018-01-22 07:30:00,2018-01-22 07:22:45
+15,crossfit-control-jacksonville-beach,9025 North Hudson Road,Saint Petersburg, FL,33702,crossfit,2018-01-21 19:00:07,2018-01-22 20:15:32,2018-01,2018-01-23 14:00:00,,
+6,power-yoga,774 Lake View St., Saint Petersburg, FL,33702,yoga,2018-01-21 21:20:35,2018-01-21 21:21:05,,2018-01-23 08:45:00,2018-01-23 08:46:03
+12,power-yoga,774 Lake View St., Saint Petersburg, FL,33702,yoga,2018-01-,2018-01-22 21:56:36,,2018-01-23 09:30:00,2018-01-23 09:27:36
+6,,9250 Gonzales St.,Flushing,NY,11354,crossfit,2018-01-22 22:45:03,2018-01-22 23:06:46,,2018-01-23 11:00:00,,
+25,hive-athletics,91 Madison Ave. ,Macungie,PA, 18062,strength,2018-01-24 16:03:01,2018-01-24 16:04:12,,2018-01-25 12:00:00,2018-01-25 11:57:33
+43,crossfit-control-jacksonville-beach,9025 North Hudson Road,Saint Petersburg, FL,33702,crossfit,2018-01-24 18:31:02,2018-01-25 08:22:51,,2018-01-25 10:30:00,2018-01-25 10:31:02
+3,hive-athletics,91 Madison Ave. ,Macungie,PA, 18062,strength,2018-01-24 18:44:11,2018-01-24 18:45:32,,2018-01-27 08:00:00,2018-01-27 07:54:40
+12,crossfit-control-jacksonville-beach,9025 North Hudson Road,Saint Petersburg, FL,33702,crossfit,2018-01-24 10:22:43,2018-01-25 07:12:29,2018-01-26 10:16:03,2018-01-26 17:30:00,,
+27,prana-yoga,9347 North Gainsway St.,Norristown, PA, 19401,yoga,2018-01-25 16:03:01,2018-01-25 16:04:12,,2018-01-26 12:00:00,2018-01-26 11:57:33
+1,prana-yoga,9347 North Gainsway St.,Norristown, PA, 19401,yoga,2018-01-25 18:31:02,2018-01-26 08:22:51,,2018-01-29 10:30:00,2018-01-29 10:31:02
+7,,91 Madison Ave. ,Macungie,PA, 18062,strength,2018-01-26 18:44:11,2018-01-26 18:45:32,,2018-01-27 08:00:00,2018-01-27 07:54:40
+17,prana-yoga,9347 North Gainsway St.,Norristown, PA, 19401,yoga,2018-01-27 10:22:43,2018-01-28 07:12:29,2018-02-02 10:16:03,2018-02-02 17:30:00,,
+3,crossfit-control-jacksonville-beach,9025 North Hudson Road,Saint Petersburg, FL,33702,crossfit,2018-01-28 19:00:07,2018-01-28 20:15:32,2018-01,2018-01-31 14:00:00,,
+55,third-ave-pilates,5 SE. Third Ave.,Providence,RI,02904,pilates,2018-01-30 21:20:35,2018-01-30 21:21:05,,2018-01-31 08:45:00,2018-01-31 08:46:03
+22,crossfit-control-jacksonville-beach,9025 North Hudson Road,Saint Petersburg, FL,33702,crossfit,2018-01-31 21:45:02,2018-01-31 21:56:36,,2018-02-03 09:30:00,2018-02-03 09:27:36
