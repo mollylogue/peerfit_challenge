@@ -130,11 +130,6 @@ def create_reservations_table(con):
 def main():
 	engine = create_engine("postgresql://localhost:5432/reservationsdb")
 
-	'''
-	for filename in os.listdir('data'):
-		create_table(engine, filename)
-	'''
-
 	with engine.connect() as con:
 		reservations_table = create_reservations_table(con)
 		csv_data_to_db(reservations_table, con)
